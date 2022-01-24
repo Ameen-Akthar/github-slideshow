@@ -1,4 +1,4 @@
-layout: slide
+layout: slides
 title: "Welcome to our second slide!"
 ---
 Your text
